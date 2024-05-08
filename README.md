@@ -37,7 +37,7 @@ letakkan semua itu di file .env
 ```env
 BOT_TOKEN = "54321:abcde" // token bot
 CHANNEL = "-6969" // id channel bukan username
-LINK = "t.me/garzmenfess" // link channel publik
+LINK = "t.me/rezmenpes" // link channel publik
 ADMIN = [12344, 1111] // id admin untuk broadcast
 DELAY = 60 // jarak waktu pengguna memposting
 TAG = ["#spill", "#random", "#curhat", "#ask", "#jokes"] // tag untuk menfess
@@ -54,8 +54,8 @@ apt -y update && apt -y upgrade
 apt -y install python python-pip
 pip install pytelegrambotapi
 pip install python-dotenv
-git clone https://github.com/GarzProject/MenfessTelegramBot
-cd MenfessTelegramBot
+git clone https://github.com/mikeel-ye/menpess
+cd menpess
 nano .env
 python menfess.py
 ```
