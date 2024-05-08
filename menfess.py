@@ -31,6 +31,7 @@ link = os.getenv("LINK")
 admin = json.loads(os.getenv("ADMIN"))
 trigger = json.loads(os.getenv("TAG"))
 delay = os.getenv("DELAY")
+oner = os.getenv("OWNER_ID")
 mulai = '''
 Selamat Datang Di **Rezvan Menfess**
 
@@ -79,7 +80,7 @@ def garz(message):
         if "/start" in teks:
                 nggih = '\n'.join(map(str, trigger))
                 yamete = ma(row_width=2)
-                rawr = bb(text="Channel Menfess", url=link)
+                rawr = bb(text="DEVS GANTENG", url=oner)
                 yamete.add(rawr)
                 kirim(id, mulai.format(nggih), parse_mode="markdown", reply_markup=yamete)
         # ping
