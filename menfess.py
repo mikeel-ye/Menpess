@@ -31,7 +31,7 @@ link = os.getenv("LINK")
 admin = json.loads(os.getenv("ADMIN"))
 trigger = json.loads(os.getenv("TAG"))
 delay = os.getenv("DELAY")
-oner = os.getenv("OWNER_ID")
+oner = os.getenv("OWNER_NAME")
 mulai = '''
 Selamat Datang Di **Rezvan Menfess**
 
