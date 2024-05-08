@@ -35,7 +35,7 @@ oner = os.getenv("OWNER_NAME")
 mulai = '''
 Selamat Datang Di **Rezvan Menfess**
 
-kamu bebas mengirim menfess pada channel rezmenfess, jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini :
+kamu bebas mengirim menfess pada channel rezmenfess, jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini Dan Untuk Ch menfes nya Ada Di @rezmenpes :
         
 *{}*
 
