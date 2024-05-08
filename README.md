@@ -64,10 +64,9 @@ command /broadcast untuk pesan broadcast ke seluruh pengguna bot
 
 
 
-Demo : [@GarzMenfessBot](https://t.me/GarzMenfessBot)
+Demo : [DISINI AJG](https://t.me/Menpesrezvanbot)
 ## Bingung??
 
-* Jika masih bingung silahkan tanyakan kepada saya di [TELEGRAM](https://t.me/tegarprayuda)
-* Menemukan error? silahkan tarik permintaan, atau bisa beritahu saya di [TELEGRAM](https://t.me/tegarprayuda)
-* Ingin Bot Menfess Full Fitur? Bisa Order atau Hubungi [TELEGRAM](https://t.me/tegarprayuda)
-* [garz api](https://garz.my.id/)
+* Jika masih bingung silahkan tanyakan kepada saya di [TELEGRAM](https://t.me/reezvann)
+* Menemukan error? silahkan tarik permintaan, atau bisa beritahu saya di [TELEGRAM](https://t.me/reezvann)
+* Ingin Bot Menfess Full Fitur? Bisa Order atau Hubungi [TELEGRAM](https://t.me/reezvann)
