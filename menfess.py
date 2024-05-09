@@ -33,9 +33,9 @@ trigger = json.loads(os.getenv("TAG"))
 delay = os.getenv("DELAY")
 oner = os.getenv("OWNER_NAME")
 mulai = '''
-Selamat Datang Di **Rezvan Menfess**
+**Woy Anjing Lu Selamat Datang Di Rezmenpes
 
-kamu bebas mengirim menfess pada channel rezmenfess, jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini Dan Untuk Ch menfes nya Ada Di @rezmenpes :
+Lu Bebas Ngirim Menfes Di Mari Privasi Juga Aman Untuk Melihat Channel Menfes Nya Ada Di @Rezmenpes Jika Ingin Mengirim Menpes Silahkan Kirim Teks Menpes Di Bawah Ini Ya Anjing :**
         
 *{}*
 
